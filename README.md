@@ -3,7 +3,7 @@
 ## I'm a web Developer!!
 
 - 🔭 I’m currently working on [FireStock](https://github.com/marzouk2002/FireStock).
-- 🌱 I’m currently learning Firebase and AI.
+- 🌱 I’m currently learning Firebase and GitHub Copilot.
 - 🥅 2021 Goals: Find a job as web Developer!! 
 - ⚡ Fun fact: Each day, I don't feel satisfied until I push some code to GitHub 🤣
 
