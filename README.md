@@ -2,10 +2,9 @@
 
 ## I'm a web Developer!!
 
-- 🔭 I’m currently working on [FireStock](https://github.com/marzouk2002/FireStock).
-- 🌱 I’m currently learning Firebase and GitHub Copilot.
-- 🥅 2021 Goals: Find a job as web Developer!! 
-- ⚡ Fun fact: Each day, I don't feel satisfied until I push some code to GitHub 🤣
+- 🔭 I’m currently working at [GitStart](https://github.com/GitStartHQ) as a Full-stack JS Dev.
+- 🌱 I’m currently interested in Next.js, GraphQL, and WebAssembly.
+- ⚡ Fun fact: I'm Biology student as well.
 
 <hr/>
 
