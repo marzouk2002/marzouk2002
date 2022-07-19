@@ -2,7 +2,7 @@
 
 ## I'm a web Developer!!
 
-- 🔭 I’m currently working at [GitStart](https://github.com/GitStartHQ) as a Full-stack JS Dev.
+- 🔭 I’m currently working at [Affable.ai](https://www.affable.ai/) as a Software engineer.
 - 🌱 I’m currently interested in Next.js, GraphQL, and WebAssembly.
 - ⚡ Fun fact: I'm Biology student as well.
 
